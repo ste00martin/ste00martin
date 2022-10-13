@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stefan Martin
 - 👀 I’m interested in 🏍️, 🏕️, and 📲
-- 🌱 I’m currently learning swift UI and docker
-- 💞️ I’m looking to collaborate with an Android engineer for launching a mobile application
+- 🌱 I’m exploring the intricacies of swift
+- 💞️ I’m looking to collaborate with people who care for their community
 - 📫 How to reach me: ste00martin@gmail.com
