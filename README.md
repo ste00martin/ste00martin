@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Stefan Martin
+- 👋 Hi, I’m Stefan!
 - 👀 I’m interested in 🏍️, 🏕️, and 📲
-- 🌱 I’m exploring the intricacies of swift
-- 💞️ I’m looking to collaborate with people who care for their community
+- 🌱 I’m exploring the intricacies of swift, react native, and AI
+- 💞️ I’m looking to collaborate with people who care about community formation
 - 📫 How to reach me: ste00martin@gmail.com
